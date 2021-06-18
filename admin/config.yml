@@ -1,9 +1,0 @@
-collections:
-  - name: posts
-    label: Posts
-    folder: content/posts
-    fields:
-      - name: draft
-        label: Is a Draft
-        widget: string
-      
