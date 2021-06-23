@@ -1,6 +1,6 @@
 ---
 title: Test page title
-draft: true
+draft: false
 date: 2021-06-17T23:32:09.725Z
 description: This man makes amazing coffee
 image: ""
